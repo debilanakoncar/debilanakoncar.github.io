@@ -1,4 +1,4 @@
-const targetDate = new Date('2024-06-21T00:00:00').getTime() / 1000;
+const targetDate = new Date('2024-05-23T00:00:00').getTime() / 1000;
 
 const timerInterval = setInterval(updateTimer, 1000);
 
